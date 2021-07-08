@@ -1,2 +1,2 @@
-# ant.pics
+# pics
 All ant's pictures.
